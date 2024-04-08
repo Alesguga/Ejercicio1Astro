@@ -1,5 +1,5 @@
 # Mi primer programa en Astro con acceso a api SpaceX con TS 
-## Aquí el enlace: ales-projects-4afb3efb/ejercicio1
+## Aquí el enlace: https://ejercicio1-astro.vercel.app/
 # Astro Starter Kit: Basics
 
 ```sh
